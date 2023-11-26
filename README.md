@@ -68,6 +68,6 @@
 
 ![image](https://github.com/dprohor/timeseries2/assets/152056985/6b72ae39-aef5-4176-ad8e-8be21e286806)
 
-
+Результаты моделей полностью устраивают. 
 
 :arrow_up:[к оглавлению](README.md#Оглавление)
