@@ -37,8 +37,16 @@
       ![image](https://github.com/dprohor/timeseries2/assets/152056985/3d400915-1f0a-43ec-a32e-2ac7fc9ef602)
 
     * Prophet
+      ![image](https://github.com/dprohor/timeseries2/assets/152056985/0fb5718b-e8b1-4ffc-9325-a9487f8bff87)
+      
+      ![image](https://github.com/dprohor/timeseries2/assets/152056985/58ec9f57-835b-4e99-b492-af9dc01afe09)
+
     * LSTM
+      ![image](https://github.com/dprohor/timeseries2/assets/152056985/33325dd2-804e-490b-a3ed-5623434e730c)
+
     * GRU
+      ![image](https://github.com/dprohor/timeseries2/assets/152056985/a8d99e19-2b1c-40a8-ac3c-1b647b71107c)
+
     * TSfresh + CatBoost
 
 * Выводы
