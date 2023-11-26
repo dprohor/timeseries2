@@ -32,6 +32,10 @@
 * Разделение данных
 * Обучаем различные модели и оцениваем качество
     * SARIMA
+      ![image](https://github.com/dprohor/timeseries2/assets/152056985/2f2c6637-cf03-46d0-beac-ee8e86e3959a)
+
+      ![image](https://github.com/dprohor/timeseries2/assets/152056985/3d400915-1f0a-43ec-a32e-2ac7fc9ef602)
+
     * Prophet
     * LSTM
     * GRU
