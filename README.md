@@ -38,6 +38,7 @@
     * TSfresh + CatBoost
 
 * Выводы
+![image](https://github.com/dprohor/timeseries2/assets/152056985/ccf9f31e-c43b-4720-9bcb-57e744fb5646)
 
 :arrow_up:[к оглавлению](README.md#Оглавление)
 
